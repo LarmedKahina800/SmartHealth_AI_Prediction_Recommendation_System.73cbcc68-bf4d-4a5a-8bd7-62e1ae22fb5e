@@ -41,7 +41,7 @@ SmartHealth_AI_Prediction_Recommendation_System/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/SmartHealth_AI_Prediction.git
+git clone https://github.com/LarmedKahina800/SmartHealth_AI_Prediction_Recommendation_System.73cbcc68-bf4d-4a5a-8bd7-62e1ae22fb5e
 cd SmartHealth_AI_Prediction
 ```
 
