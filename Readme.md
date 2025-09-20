@@ -25,11 +25,12 @@ It combines **machine learning, explainable AI, and a Streamlit interface** to p
 ```text
 SmartHealth_AI_Prediction_Recommendation_System/
 │
-├── app.py                       # Main Streamlit app
+├── app.py                 # Main Streamlit app
 ├── utils.py                     # Helper functions (prediction, SHAP, recommendations)
 ├── svc_model.pkl                 # Trained ML model
 ├── Datasets/                     # CSV files (symptoms, medications, diets, workouts, etc.)
 ├── ai_medical_assistant.ipynb    # Jupyter notebook for training & experiments
+├── requirements.txt    
 └── README.md                     # Project documentation
 ````
 
@@ -139,14 +140,4 @@ Scroll down to the **Explainable AI** section to see:
 
 ![AI Medical Assistant Screenshot - Explainable AI](Images/screenshot4.png)
 
-```
-
-✅ This version:
-
-- Uses proper Markdown spacing and line breaks.  
-- All headings and sections render nicely on GitHub.  
-- Code blocks, file tree, and command examples are formatted clearly.  
-- Screenshots and step descriptions are easy to follow.  
-
-If you want, I can also **add a concise one-line repository description** that fits GitHub’s description field perfectly. Do you want me to do that?
 ```
