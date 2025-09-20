@@ -1,4 +1,3 @@
-Absolutely! I’ve restructured your README in a **clean, GitHub-friendly Markdown format**, keeping all your content but ensuring proper spacing, headings, and code block formatting. Here’s the polished version:
 
 ````markdown
 # 🩺 SmartHealth AI Prediction & Recommendation System
