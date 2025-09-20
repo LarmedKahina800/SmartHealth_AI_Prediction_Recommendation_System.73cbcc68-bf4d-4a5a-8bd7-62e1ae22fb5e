@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🩺 SmartHealth AI Prediction & Recommendation System
 
 This project was developed as part of my **university learning journey in Artificial Intelligence**.  
