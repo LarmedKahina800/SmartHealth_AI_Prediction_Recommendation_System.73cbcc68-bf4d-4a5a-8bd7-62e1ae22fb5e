@@ -1,15 +1,10 @@
 
-```markdown
-# 🩺 SmartHealth AI Prediction & Recommendation System   
 
-This project was developed as part of my **university learning journey in Artificial Intelligence**.  
-It combines **machine learning, explainable AI, and a Streamlit interface** to predict possible diseases from user symptoms and provide simple recommendations (medications, diet, workouts, and precautions).  
+# AI Medical Assistant
 
+This project is a web application that predicts diseases based on user symptoms and provides personalized recommendations. It also includes Explainable AI visualizations.
 
----
-
-## Features  
-
+## Features
 -  Disease prediction using a trained **Support Vector Classifier (SVC)** model  
 -  **Explainable AI (SHAP)** to show which symptoms influenced predictions  
 -  Recommendations for:
